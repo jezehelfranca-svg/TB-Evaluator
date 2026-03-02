@@ -1,0 +1,5 @@
+{
+  "name": "Vendor Quotation Evaluator",
+  "description": "Review and evaluate vendor quotations against requirements using Gemini 3.1 Pro Preview with Google Search grounding.",
+  "requestFramePermissions": []
+}
